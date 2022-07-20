@@ -11,6 +11,7 @@ body{
     height:90px;
 
 }
+
 .mainimg{
     margin-top:20px;
     margin-left:20px;
@@ -138,18 +139,7 @@ body{
     margin-top:20px;
 }
 #submit{
-    text-align: center;
-    font-size:17px;
-    text-decoration: none;
     float:left;
-    margin-left:35%;
-    width:20%;
-    height:25px;
-    border-radius:20px;
-    color:white;
-    border:0;
-    background: linear-gradient(to right, rgba(64,230,255,1) 0%, rgba(33,105,164,1) 100%) !important;
-
 }
 .inputbutton input{
     
@@ -362,12 +352,29 @@ body{
 .note b{
     font-size: 20px;
 }
+#paynow{float:left;
+    text-decoration: none;
+    font-size: large;
+    margin-left:40vh;
+    margin-top:35px;
+    width:20%;
+    text-align: center;
+    height:27px;
+    border-radius:30px;
+    color:white;
+    border:0;
+    background: linear-gradient(to right, rgba(64,230,255,1) 0%, rgba(33,105,164,1) 100%) !important;
 
+}
 @media(max-width:425px){
     body{
         background:black;
         padding:0;
         margin:0;
+    }
+    #paynow{
+        margin-left:15vh;
+        width:40%;
     }
     .topnav{
         background:black;
@@ -556,12 +563,7 @@ body{
     #submit{
         float:left;
         margin-left:25%;
-        margin-top:5px;
-        width:45%;
-        height:25px;
-        border-radius:20px;
-        color:white;
-        border:0;
+        margin-top:5vh;
     }
     #WhatsappNumber{
         color:red;
