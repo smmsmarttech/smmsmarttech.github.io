@@ -12,7 +12,7 @@ function aler(){
      if(value == 1){
           document.getElementById("paynow").href = "https://rzp.io/l/JlVcHq9";
      }else if(value == 2){
-          document.getElementById("paynow").href = "https://rzp.io/l/K1XZe4R";
+          document.getElementById("paynow").href = "https://rzp.io/l/JYgslGgJM";
      }
      else if(value == 3){
           document.getElementById("paynow").href = "https://rzp.io/l/1z56Ba1";
