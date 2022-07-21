@@ -10,15 +10,15 @@ function aler(){
 
 
      if(value == 1){
-          document.getElementById("paynow").href = "https://rzp.io/l/JlVcHq9";
+          document.getElementById("paynow").href = "https://rzp.io/l/T41fDod9K6";
      }else if(value == 2){
-          document.getElementById("paynow").href = "https://rzp.io/l/JYgslGgJM";
+          document.getElementById("paynow").href = "https://rzp.io/l/K1XZe4R";
      }
      else if(value == 3){
           document.getElementById("paynow").href = "https://rzp.io/l/1z56Ba1";
      }
      else if(value == 4){
-          document.getElementById("paynow").href = "https://rzp.io/l/T41fDod9K6";
+          document.getElementById("paynow").href = "https://rzp.io/l/JlVcHq9";
      }
      
 }
