@@ -65,8 +65,7 @@ function money(){
         return 200;
     }else if(value == 4){
         return 90;
-   }
-   else if(value == 5){
+   }else if(value == 5){
      return 1000;
 
    }
