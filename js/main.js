@@ -98,7 +98,7 @@ function money(){
      return 300;
 
    }
-   else if(value == 12){
+   else if(value == 13){
      return 160;
 
    }
